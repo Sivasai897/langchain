@@ -4,7 +4,6 @@ This repository contains a collection of examples and implementations using Lang
 
 ## Project Structure
 
-
 The project is organized into several directories, each focusing on different aspects of LangChain:
 
 - `1_chat_models/`: Examples of using different chat models with LangChain
